@@ -13,8 +13,7 @@
 git clone https://github.com/Maanasa64/sudoku-solver.git
 cd sudoku-solver
 ```
-## Usge:
-Uses recursive backtracking 
+## Usage:
 `python solver.py`
 
 ```
