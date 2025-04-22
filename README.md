@@ -2,10 +2,12 @@
 
 ## 🌈 Features
 
-- **Live-solving visualization**
-- **Smart backtracking**
-- **Two modes**
-- **Optimized brute force**
+- 🎨 **Colorful live-solving visualization** (watch the solver work in real-time!)
+- 🧠 **Smart backtracking** with least-possibilities-first cell selection
+- ⏱️ **Timer and step counter** to track solving performance
+- ❤️ **Handles both solvable and unsolvable puzzles** with clear feedback
+- 🖥️ **Clean terminal interface** with color highlighting
+- 📊 **Optimized brute force** that's faster than naive backtracking
 
 ## 🛠️ Installation
 
